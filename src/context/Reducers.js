@@ -17,9 +17,9 @@
         default:
             return state;
     }
-}
+ }
 
-export const productReducer = (state, action)=>{
+    export const productReducer = (state, action)=>{
  
     switch(action.type){
 
