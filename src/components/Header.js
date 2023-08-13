@@ -14,7 +14,7 @@ function Header() {
         <Navbar bg='dark' variant='dark' style={{ height: '80px' }}>
             <Container>
                 <Navbar.Brand>
-                    <Link to='/'>Shoping Cart added in learn2 1199</Link>
+                    <Link to='/'>Shoping Cart added in learn2 1199 ABCD</Link>
                 </Navbar.Brand>
                 <Navbar.Text className='search'>
                     <FormControl
